@@ -41,7 +41,7 @@ export const About = () => {
                                 Hobbies
                             </h3>
                             <p>
-                                Aside from programming, I'm an avid sports fan. I favorite teams are the Packers, Manchester United, Suns, and UNC.
+                                Aside from programming, I'm an avid sports fan. My favorite teams are the Packers, Manchester United, Suns, and UNC.
                             </p>
                         </div>
                     </li>
